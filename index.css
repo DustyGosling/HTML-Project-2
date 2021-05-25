@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+.heading{
+    text-decoration-color: blueviolet;
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+    border: 3px solid rgb(177, 206, 13);
+    border-radius: 50%;
+
+}
+
+button{
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    outline: rgb(0, 255, 55);
+    border: violet;
+    padding: 25px;
+    background-color: green;
+}
+
+footer{
+    position: absolute;
+}
